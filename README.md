@@ -53,5 +53,3 @@ Goodbye
 - You can exit the program by typing 'no' when prompted to restart.
 
 Feel free to use and modify this script for your own purposes. If you have any questions or suggestions, please reach out to the project contributors.
-
-**Author:** TUR14CUS
